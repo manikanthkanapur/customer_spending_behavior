@@ -1,0 +1,192 @@
+Country,Year,Product_category,Gender,Age_group,Avg_unit_price,Units_purchased
+France,2015,Accessories,F,Adult,181,566
+France,2015,Clothing,F,Adult,400,118
+France,2015,Bikes,F,Adult,964,274
+France,2015,Clothing,F,Middle aged,368,34
+France,2015,Accessories,F,Middle aged,189,230
+France,2015,Bikes,F,Middle aged,1378,67
+France,2015,Accessories,F,Old,161,52
+France,2015,Bikes,F,Old,1248,6
+France,2015,Clothing,F,Old,392,11
+France,2015,Accessories,F,Young,181,479
+France,2015,Clothing,F,Young,366,107
+France,2015,Bikes,F,Young,928,186
+France,2015,Accessories,M,Adult,196,547
+France,2015,Clothing,M,Adult,364,133
+France,2015,Bikes,M,Adult,965,325
+France,2015,Accessories,M,Middle aged,181,258
+France,2015,Clothing,M,Middle aged,260,44
+France,2015,Bikes,M,Middle aged,1192,102
+France,2015,Clothing,M,Old,558,9
+France,2015,Bikes,M,Old,740,9
+France,2015,Accessories,M,Old,133,53
+France,2015,Accessories,M,Young,195,472
+France,2015,Clothing,M,Young,397,135
+France,2015,Bikes,M,Young,857,207
+France,2016,Accessories,F,Adult,213,998
+France,2016,Clothing,F,Adult,377,202
+France,2016,Bikes,F,Adult,987,295
+France,2016,Accessories,F,Middle aged,242,312
+France,2016,Bikes,F,Middle aged,1168,65
+France,2016,Clothing,F,Middle aged,474,45
+France,2016,Accessories,F,Old,184,102
+France,2016,Bikes,F,Old,1399,2
+France,2016,Clothing,F,Old,327,20
+France,2016,Accessories,F,Young,215,619
+France,2016,Clothing,F,Young,400,169
+France,2016,Bikes,F,Young,871,206
+France,2016,Accessories,M,Adult,203,953
+France,2016,Clothing,M,Adult,413,211
+France,2016,Bikes,M,Adult,1109,279
+France,2016,Accessories,M,Middle aged,211,284
+France,2016,Clothing,M,Middle aged,442,52
+France,2016,Bikes,M,Middle aged,1148,57
+France,2016,Accessories,M,Old,199,55
+France,2016,Clothing,M,Old,391,31
+France,2016,Bikes,M,Old,754,6
+France,2016,Accessories,M,Young,217,646
+France,2016,Clothing,M,Young,428,130
+France,2016,Bikes,M,Young,900,210
+Germany,2015,Accessories,F,Adult,248,595
+Germany,2015,Clothing,F,Adult,388,100
+Germany,2015,Bikes,F,Adult,1186,319
+Germany,2015,Bikes,F,Middle aged,1327,80
+Germany,2015,Accessories,F,Middle aged,226,207
+Germany,2015,Clothing,F,Middle aged,246,40
+Germany,2015,Accessories,F,Old,227,31
+Germany,2015,Bikes,F,Old,1396,6
+Germany,2015,Clothing,F,Old,73,6
+Germany,2015,Accessories,F,Young,225,460
+Germany,2015,Clothing,F,Young,428,107
+Germany,2015,Bikes,F,Young,1092,238
+Germany,2015,Accessories,M,Adult,197,587
+Germany,2015,Bikes,M,Adult,1177,296
+Germany,2015,Clothing,M,Adult,434,110
+Germany,2015,Accessories,M,Middle aged,164,147
+Germany,2015,Bikes,M,Middle aged,1307,62
+Germany,2015,Clothing,M,Middle aged,434,28
+Germany,2015,Accessories,M,Old,289,30
+Germany,2015,Clothing,M,Old,987,3
+Germany,2015,Bikes,M,Old,1187,5
+Germany,2015,Accessories,M,Young,213,468
+Germany,2015,Clothing,M,Young,399,95
+Germany,2015,Bikes,M,Young,1095,221
+Germany,2016,Accessories,F,Adult,248,836
+Germany,2016,Clothing,F,Adult,396,187
+Germany,2016,Bikes,F,Adult,1268,373
+Germany,2016,Accessories,F,Middle aged,283,240
+Germany,2016,Clothing,F,Middle aged,546,55
+Germany,2016,Bikes,F,Middle aged,1418,79
+Germany,2016,Clothing,F,Old,417,17
+Germany,2016,Accessories,F,Old,228,130
+Germany,2016,Bikes,F,Old,864,18
+Germany,2016,Accessories,F,Young,266,673
+Germany,2016,Clothing,F,Young,371,193
+Germany,2016,Bikes,F,Young,1049,252
+Germany,2016,Accessories,M,Adult,256,894
+Germany,2016,Clothing,M,Adult,507,207
+Germany,2016,Bikes,M,Adult,1118,343
+Germany,2016,Clothing,M,Middle aged,549,56
+Germany,2016,Accessories,M,Middle aged,302,281
+Germany,2016,Bikes,M,Middle aged,1660,56
+Germany,2016,Accessories,M,Old,300,77
+Germany,2016,Bikes,M,Old,1039,2
+Germany,2016,Clothing,M,Old,1024,13
+Germany,2016,Clothing,M,Young,421,176
+Germany,2016,Accessories,M,Young,262,749
+Germany,2016,Bikes,M,Young,1016,238
+United Kingdom,2015,Accessories,F,Adult,177,894
+United Kingdom,2015,Clothing,F,Adult,313,219
+United Kingdom,2015,Bikes,F,Adult,1001,435
+United Kingdom,2015,Accessories,F,Middle aged,142,258
+United Kingdom,2015,Clothing,F,Middle aged,319,46
+United Kingdom,2015,Bikes,F,Middle aged,1033,58
+United Kingdom,2015,Clothing,F,Old,182,14
+United Kingdom,2015,Accessories,F,Old,196,87
+United Kingdom,2015,Bikes,F,Old,562,27
+United Kingdom,2015,Accessories,F,Young,177,555
+United Kingdom,2015,Clothing,F,Young,409,105
+United Kingdom,2015,Bikes,F,Young,850,261
+United Kingdom,2015,Accessories,M,Adult,179,631
+United Kingdom,2015,Clothing,M,Adult,278,147
+United Kingdom,2015,Bikes,M,Adult,916,345
+United Kingdom,2015,Accessories,M,Middle aged,195,271
+United Kingdom,2015,Clothing,M,Middle aged,445,58
+United Kingdom,2015,Bikes,M,Middle aged,1143,109
+United Kingdom,2015,Accessories,M,Old,165,82
+United Kingdom,2015,Clothing,M,Old,383,23
+United Kingdom,2015,Bikes,M,Old,689,15
+United Kingdom,2015,Clothing,M,Young,273,147
+United Kingdom,2015,Accessories,M,Young,183,614
+United Kingdom,2015,Bikes,M,Young,889,288
+United Kingdom,2016,Accessories,F,Adult,221,956
+United Kingdom,2016,Clothing,F,Adult,362,267
+United Kingdom,2016,Bikes,F,Adult,980,319
+United Kingdom,2016,Clothing,F,Middle aged,224,84
+United Kingdom,2016,Accessories,F,Middle aged,185,376
+United Kingdom,2016,Bikes,F,Middle aged,1320,66
+United Kingdom,2016,Clothing,F,Old,388,30
+United Kingdom,2016,Accessories,F,Old,199,105
+United Kingdom,2016,Bikes,F,Old,774,20
+United Kingdom,2016,Accessories,F,Young,215,806
+United Kingdom,2016,Clothing,F,Young,395,178
+United Kingdom,2016,Bikes,F,Young,928,286
+United Kingdom,2016,Accessories,M,Adult,220,1111
+United Kingdom,2016,Clothing,M,Adult,355,295
+United Kingdom,2016,Bikes,M,Adult,1133,394
+United Kingdom,2016,Accessories,M,Middle aged,241,358
+United Kingdom,2016,Clothing,M,Middle aged,324,79
+United Kingdom,2016,Bikes,M,Middle aged,1094,88
+United Kingdom,2016,Accessories,M,Old,173,76
+United Kingdom,2016,Clothing,M,Old,504,21
+United Kingdom,2016,Bikes,M,Old,915,12
+United Kingdom,2016,Accessories,M,Young,217,730
+United Kingdom,2016,Clothing,M,Young,408,177
+United Kingdom,2016,Bikes,M,Young,920,299
+United States,2015,Accessories,F,Adult,183,2340
+United States,2015,Clothing,F,Adult,428,485
+United States,2015,Bikes,F,Adult,869,923
+United States,2015,Accessories,F,Middle aged,176,776
+United States,2015,Clothing,F,Middle aged,333,171
+United States,2015,Bikes,F,Middle aged,844,223
+United States,2015,Accessories,F,Old,188,352
+United States,2015,Clothing,F,Old,488,54
+United States,2015,Bikes,F,Old,1094,77
+United States,2015,Clothing,F,Young,481,420
+United States,2015,Accessories,F,Young,175,1562
+United States,2015,Bikes,F,Young,807,624
+United States,2015,Accessories,M,Adult,186,2155
+United States,2015,Bikes,M,Adult,833,828
+United States,2015,Clothing,M,Adult,406,554
+United States,2015,Clothing,M,Middle aged,444,166
+United States,2015,Accessories,M,Middle aged,156,847
+United States,2015,Bikes,M,Middle aged,819,210
+United States,2015,Accessories,M,Old,166,439
+United States,2015,Clothing,M,Old,480,93
+United States,2015,Bikes,M,Old,1049,93
+United States,2015,Accessories,M,Young,189,1388
+United States,2015,Clothing,M,Young,388,366
+United States,2015,Bikes,M,Young,868,563
+United States,2016,Accessories,F,Adult,210,3276
+United States,2016,Clothing,F,Adult,429,872
+United States,2016,Bikes,F,Adult,969,1001
+United States,2016,Accessories,F,Middle aged,210,1285
+United States,2016,Bikes,F,Middle aged,1064,224
+United States,2016,Clothing,F,Middle aged,498,319
+United States,2016,Accessories,F,Old,233,594
+United States,2016,Clothing,F,Old,408,124
+United States,2016,Bikes,F,Old,1019,100
+United States,2016,Accessories,F,Young,65,1468
+United States,2016,Clothing,F,Young,85,207
+United States,2016,Accessories,M,Adult,221,3749
+United States,2016,Clothing,M,Adult,452,995
+United States,2016,Bikes,M,Adult,989,1004
+United States,2016,Accessories,M,Middle aged,213,1218
+United States,2016,Clothing,M,Middle aged,401,335
+United States,2016,Bikes,M,Middle aged,1121,211
+United States,2016,Accessories,M,Old,189,524
+United States,2016,Clothing,M,Old,441,135
+United States,2016,Bikes,M,Old,1159,83
+United States,2016,Accessories,M,Young,183,2134
+United States,2016,Clothing,M,Young,276,451
+United States,2016,Bikes,M,Young,465,221

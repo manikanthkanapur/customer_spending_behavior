@@ -1,0 +1,69 @@
+Country,Product_category,Sub_category,Total_revenue
+France,Accessories,Tires and Tubes,446433
+France,Clothing,Caps,38537
+France,Accessories,Bottles and Cages,93406
+France,Clothing,Gloves,26787
+France,Accessories,Cleaners,7530
+France,Clothing,Socks,5314
+France,Clothing,Jerseys,284828
+France,Accessories,Bike Racks,12456
+France,Bikes,Mountain Bikes,766022
+France,Bikes,Road Bikes,756904
+France,Accessories,Helmets,439103
+France,Accessories,Hydration Packs,51945
+France,Accessories,Fenders,27906
+France,Bikes,Touring Bikes,349677
+France,Clothing,Shorts,64310
+France,Accessories,Bike Stands,20398
+France,Clothing,Vests,54548
+Germany,Accessories,Tires and Tubes,468474
+Germany,Accessories,Bottles and Cages,118788
+Germany,Clothing,Socks,7765
+Germany,Clothing,Caps,54414
+Germany,Accessories,Cleaners,11213
+Germany,Accessories,Fenders,47216
+Germany,Clothing,Jerseys,316610
+Germany,Bikes,Mountain Bikes,1031306
+Germany,Bikes,Road Bikes,922786
+Germany,Accessories,Helmets,539855
+Germany,Bikes,Touring Bikes,511335
+Germany,Clothing,Gloves,28870
+Germany,Clothing,Shorts,16360
+Germany,Accessories,Bike Racks,33201
+Germany,Clothing,Vests,65654
+Germany,Accessories,Bike Stands,24744
+Germany,Accessories,Hydration Packs,45919
+United Kingdom,Accessories,Tires and Tubes,483548
+United Kingdom,Accessories,Bottles and Cages,120195
+United Kingdom,Clothing,Caps,55422
+United Kingdom,Clothing,Socks,10183
+United Kingdom,Accessories,Cleaners,11998
+United Kingdom,Accessories,Fenders,37665
+United Kingdom,Clothing,Jerseys,348986
+United Kingdom,Clothing,Vests,44772
+United Kingdom,Accessories,Bike Racks,20484
+United Kingdom,Clothing,Gloves,36918
+United Kingdom,Bikes,Mountain Bikes,958058
+United Kingdom,Accessories,Hydration Packs,72549
+United Kingdom,Bikes,Road Bikes,924620
+United Kingdom,Accessories,Helmets,534691
+United Kingdom,Clothing,Shorts,55774
+United Kingdom,Bikes,Touring Bikes,532439
+United Kingdom,Accessories,Bike Stands,27918
+United States,Accessories,Tires and Tubes,1467460
+United States,Accessories,Bottles and Cages,377018
+United States,Accessories,Helmets,1224561
+United States,Clothing,Caps,107619
+United States,Clothing,Vests,203707
+United States,Bikes,Touring Bikes,994459
+United States,Clothing,Jerseys,883686
+United States,Bikes,Mountain Bikes,2421070
+United States,Accessories,Fenders,216417
+United States,Accessories,Cleaners,52146
+United States,Clothing,Socks,37975
+United States,Clothing,Gloves,135778
+United States,Accessories,Bike Racks,74713
+United States,Bikes,Road Bikes,1317679
+United States,Clothing,Shorts,552740
+United States,Accessories,Hydration Packs,232863
+United States,Accessories,Bike Stands,77851

@@ -1,0 +1,33 @@
+Country,Age_group,Gender,Total_revenue
+France,Adult,M,871254
+France,Adult,F,811512
+France,Young,M,584125
+France,Young,F,559229
+France,Middle aged,M,278427
+France,Middle aged,F,264192
+France,Old,F,40805
+France,Old,M,36560
+Germany,Adult,F,1069892
+Germany,Adult,M,1014472
+Germany,Young,F,758370
+Germany,Young,M,746171
+Germany,Middle aged,F,298103
+Germany,Middle aged,M,258252
+Germany,Old,F,55360
+Germany,Old,M,43890
+United Kingdom,Adult,M,1057758
+United Kingdom,Adult,F,1040420
+United Kingdom,Young,M,744833
+United Kingdom,Young,F,727504
+United Kingdom,Middle aged,M,336032
+United Kingdom,Middle aged,F,239954
+United Kingdom,Old,F,68807
+United Kingdom,Old,M,60912
+United States,Adult,M,2918789
+United States,Adult,F,2854567
+United States,Young,M,1240635
+United States,Young,F,894859
+United States,Middle aged,F,866020
+United States,Middle aged,M,831673
+United States,Old,M,388159
+United States,Old,F,383040
